@@ -1,3 +1,3 @@
 # first-lab
 this is my first git repository
-welcome to my first repo
+welcome to my first (lab class)
